@@ -1,1 +1,1 @@
-# C-primeirasCoisas
+Os dois primeiros exercicios em C
